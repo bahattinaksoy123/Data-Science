@@ -1,5 +1,5 @@
 # Data-Science
-Avocado Sales Analysis, (Available on GitHub)
+Avocado Sales Analysis
 <br />
 ● Conducted analysis on a dataset of avocado sales, applying classification and regression algorithms.
 <br />
